@@ -9,10 +9,24 @@ name: Community Involvement Goals
 
 (Comprehensive Plan Chapter 2)
 
-### Context-sensitive Design and Development
+### Community involvement as a partnership
 
-New development is designed to respond to and enhance the distinctive physical, historic, and cultural qualities of its location, while accommodating growth and change. (Comprehensive Plan Goal 4.A)
+The City of Portland works together as a genuine partner with all Portland communities and
+interests. The City promotes, builds, and maintains relationships, and communicates with
+individuals, communities, neighborhoods, businesses, organizations, Neighborhood
+Associations, Business Associations, institutions, and other governments to ensure meaningful
+community involvement in planning and investment decisions. Partnerships with historically
+under-served and under-represented communities must be paired with the City’s
+neighborhood organizations to create a robust and inclusive community involvement system. (
+COMPREHENSIVE PLAN Goal 2.A)
 
-### Human and Environmental Health
 
-Neighborhoods and development are efficiently designed and built to enhance human and environmental health: they protect safety and livability; support local access to healthy food; limit negative impacts on water, hydrology, and air quality; reduce carbon emissions; encourage active and sustainable design; protect wildlife; address urban heat islands; and integrate nature and the built environment. (Comprehensive Plan Goal 4.C)
+### Social justice and equity
+
+The City of Portland seeks social justice by expanding choice and opportunity for all community
+members, recognizing a special responsibility to identify and engage, as genuine partners,
+under-served and under-represented communities in planning, investment, implementation,
+and enforcement processes, particularly those with potential to be adversely affected by the
+results of decisions. The City actively works to improve its planning and investment-related
+decisions to achieve equitable distribution of burdens and benefits and address past injustices.
+(COMPREHENSIVE PLAN Goal 2.B)
