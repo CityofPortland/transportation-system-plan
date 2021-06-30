@@ -5,12 +5,11 @@ tree:
 id: community-involvement-policies
 name: Community Involvement Policies
 ---
-## Community Involvement Goals Policies
+## Community Involvement
 (Comprehensive Plan Chapter 2)
 
 ### Goals
-**Community involvement as a partnership:** The City of Portland works together as a genuine partner with all Portland communities and
-interests. The City promotes, builds, and maintains relationships, and communicates with
+**Community involvement as a partnership:** The City of Portland works together as a genuine partner with all Portland communities and interests. The City promotes, builds, and maintains relationships, and communicates with
 individuals, communities, neighborhoods, businesses, organizations, Neighborhood
 Associations, Business Associations, institutions, and other governments to ensure meaningful
 community involvement in planning and investment decisions. Partnerships with historically
